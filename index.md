@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/unkemptArc99/unkemptArc99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Your Name</h1>
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a placeholder for your bio. You can write a few paragraphs about yourself here. Talk about your passions, your skills, and what you do. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-```markdown
-Syntax highlighted code block
+## Social Media
 
-# Header 1
-## Header 2
-### Header 3
+*   [LinkedIn](https://www.linkedin.com/in/yourprofile)
+*   [GitHub](https://github.com/yourusername)
+*   [Twitter](https://twitter.com/yourusername)
 
-- Bulleted
-- List
+## Projects
 
-1. Numbered
-2. List
+{% for project in site.projects %}
+### [{{ project.title }}]({{ project.url }})
+{{ project.description }}
+{% endfor %}
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+You can reach me at [your.email@example.com](mailto:your.email@example.com).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unkemptArc99/unkemptArc99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Download My Resume](link/to/your/resume.pdf)
