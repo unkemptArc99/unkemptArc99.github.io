@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Abhishek M Sharma
+**Software Engineer at Meta** | Distributed Systems & Systems Programming Enthusiast
 
-You can use the [editor on GitHub](https://github.com/unkemptArc99/unkemptArc99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! I am a Software Engineer at Meta, currently focused on developing and maintaining large-scale **Global Load Balancers** that handle over 100 Billion QPS. My background spans distributed systems, firmware development (UEFI), and cloud security.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Explore My Work
+- [**Experience**](/experience): My professional journey at Meta, Amazon AWS, and Microsoft.
+- [**Projects & Research**](/projects): Distributed systems research (RD-FCA) and technical projects.
+- [**Education & Awards**](/education): Academic background from Georgia Tech and IIT Mandi, along with key honors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Technical Skills
+- **Languages:** C, C++, Java, Python, TypeScript, Ruby, Golang
+- **Technologies:** Distributed Systems, Load Balancing, UEFI, Docker, eBPF, Kafka, ZooKeeper, Paxos/Raft.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Connect with Me
+- [**GitHub**](https://github.com/unkemptArc99)
+- [**LinkedIn**](https://www.linkedin.com/in/abhishek-99/)
+- **Email:** abhishek.ms99@pm.me
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unkemptArc99/unkemptArc99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*“Simplicity is the soul of efficiency.”*
