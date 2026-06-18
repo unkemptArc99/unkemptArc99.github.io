@@ -1,11 +1,12 @@
 ---
-layout: default
-title: Projects
+layout: single
+title: Projects & Research
+author_profile: true
+permalink: /projects/
 ---
 
-# Projects & Research
-
 ## Research
+
 ### **RD-FCA: Resilient Distributed Formal Concept Analysis**
 *Aug 2018 – Jun 2019*
 - Invented a first-in-class fault-tolerant distributed system for Formal Concept Analysis by leveraging the resilience of frameworks like **ZooKeeper and Kafka**.
@@ -39,5 +40,3 @@ title: Projects
 
 ### **Open Source: GNOME Polari**
 - Contributed to the IRC client **Polari** by resolving a customer experience bug related to the network connection spinner.
-
-[Back to Home](/)

@@ -1,3 +1,44 @@
-theme: jekyll-theme-hacker
-title: Abhishek M Sharma | Software Engineer
+# Welcome to Jekyll!
+title: Abhishek M Sharma
 description: Software Engineer at Meta, specializing in distributed systems, load balancing, and firmware development.
+
+url: "https://unkemptArc99.github.io"
+baseurl: ""
+
+atom_feed:
+  hide: true
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# Author Profile
+author:
+  name: "Abhishek M Sharma"
+  avatar: "/assets/images/bio-photo.jpeg" # Placeholder: Please upload an image and place it here
+  bio: "Software Engineer at Meta. Passionate about Distributed Systems."
+  location: "USA"
+  email: "abhishek.ms99@pm.me"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abhishek-99/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/unkemptArc99"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache

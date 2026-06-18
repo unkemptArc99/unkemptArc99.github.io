@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: single
 title: Experience
+author_profile: true
+permalink: /experience/
 ---
-
-# Work Experience
 
 ### **Software Engineer** | Meta
 *May 2024 – Present*
@@ -42,5 +42,3 @@ title: Experience
 ### **Software Engineering Intern** | Ikarus AI
 *Dec 2017 – Feb 2018*
 - Designed software in Python to automatically correct skew of images (PO forms, passports) using the **Hough Line Transform** method, integrated into the AllSpark automation platform.
-
-[Back to Home](/)

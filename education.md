@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: single
 title: Education
+author_profile: true
+permalink: /education/
 ---
-
-# Education
 
 ### **Georgia Institute of Technology**
 *Aug 2021 – Dec 2022*
@@ -19,7 +19,7 @@ title: Education
 
 ---
 
-# Awards & Achievements
+## Awards & Achievements
 
 - **Microsoft E+D India "Be A Leader" Award (2020):** Recognized for "Be Bold and Exceptional" quality in UEFI development.
 - **Director's Gold Medal (2019):** Awarded for all-round proficiency among the graduating B.Tech batch at IIT Mandi.
@@ -29,10 +29,8 @@ title: Education
 
 ---
 
-# Positions of Responsibility
+## Positions of Responsibility
 
 - **Academic Secretary, IIT Mandi (2017-2019):** Served two consecutive terms; designed new courses and launched a derivative of MIT BahFest.
 - **Main Coordinator, Programming Club (2017-2018):** Led application development division and organized hackathons.
 - **Student Mentor, ACM Chapter IIT Mandi (2017-2018):** Helped increase college participation in ACM ICPC.
-
-[Back to Home](/)
